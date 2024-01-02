@@ -1,6 +1,6 @@
 # We are the Champions
 
-- <a href="https://wearethechamp.netlify.app/">Live Preview</a>
+- <a href="https://asarahmed.github.io/We-are-the-Champions/">Live Preview</a>
 
 ## Welcome! 👋
 
